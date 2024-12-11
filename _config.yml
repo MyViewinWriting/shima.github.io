@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Shivani_photo.png"
+  avatar           : "images/Shivani_photo.png"
   name             : "Shivani Malhotra"
   pronouns         : # example: "she/her"  
   bio              : "Consistent Learner | Data & Insights | Ex-Paytm (Business Analyst) | Master's in International Management"
