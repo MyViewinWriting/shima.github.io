@@ -7,5 +7,5 @@ redirect_from:
 ---
 
 ## My CV
-[Download CV](https://shima.github.io/files/SHIVANI_MALHOTRA_2025.pdf)
+[View CV](https://github.com/MyViewinWriting/shima.github.io/raw/master/files/SHIVANI_MALHOTRA_2025.pdf#view=FitH)
 
