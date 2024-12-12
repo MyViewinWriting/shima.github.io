@@ -1,0 +1,13 @@
+.logo-right {
+  float: right; /* Aligns the logo to the right */
+  margin-left: 20px; /* Adds spacing to the left of the logo */
+  margin-bottom: 10px; /* Optional: Adds space below the logo */
+}
+
+@media (max-width: 768px) {
+  .logo-right {
+    float: none; /* Cancels the float on smaller screens */
+    text-align: center; /* Centers the logo */
+    margin: 10px auto; /* Centers the margin for mobile */
+  }
+}
