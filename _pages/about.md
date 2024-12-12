@@ -9,7 +9,7 @@ redirect_from:
 
 My research and professional interests revolve around understanding businesses, analyzing their data, and applying machine learning techniques to extract actionable insights. I hold a Master Degree in International Management from [HSE University](https://www.hse.ru/en/), Moscow & [EDHEC Business School](https://www.edhec.edu/en) (Exchange sem-duration)
 
-Professional Experiene
+Professional Experience
 ======
 📚I have research experience as a Research Analyst at [HSE University](https://www.hse.ru/en/), where I contributed to crowdsourcing contests, analyzing the socio-economic profiles of participants. I have presented this work at Open and User Innovation Conference [OUI](https://sites.google.com/view/oui2019/homepage). This experience strengthened my understanding of data analysis 
 and sparked my passion for uncovering patterns in complex datasets.
@@ -19,6 +19,8 @@ where I worked with major clients such as INOX-PVR. I was responsible for analyz
 and purchasing patterns, providing actionable insights, and developing data-driven marketing strategies 
 to optimize client engagement and growth.
 
-Independent Research 
+Research Experimentation
 ======
-I have experience with independent research. 
+I have hands-on practice with exploration, analysis, and testing of data using machine learning tools and techniques. Check out my [blog](https://myviewinwriting.github.io/shima.github.io//year-archive/) section to explore summaries of my research and analysis !
+
+✍️(◔◡◔)
