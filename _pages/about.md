@@ -14,7 +14,7 @@ Professional Experience
 📚I have research experience as a Research Analyst at [HSE University](https://www.hse.ru/en/), where I contributed to crowdsourcing contests, analyzing the socio-economic profiles of participants. I have presented this work at Open and User Innovation Conference [OUI](https://sites.google.com/view/oui2019/homepage). This experience strengthened my understanding of data analysis 
 and sparked my passion for uncovering patterns in complex datasets.
 
-💻In addition to research, I have hands-on experience in business data analysis from my time at [Paytm](https://paytm.com/about-us), 
+💻In addition to research, I have hands-on experience in business data analysis from my time at [Paytm](https://paytm.com/about-us),           
 where I worked with major clients such as INOX-PVR. I was responsible for analyzing customer behavior 
 and purchasing patterns, providing actionable insights, and developing data-driven marketing strategies 
 to optimize client engagement and growth.
@@ -38,4 +38,13 @@ At a Glance: Certifications
 • [CIMA](https://drive.google.com/drive/u/0/folders/1q06YBlkcYMGh7mSQ8qw_W5om4R0_NdxN): 2nd Prize awarded at the CIMA Emerging Leaders Competition - 2021
 
 • [X-Culture](https://drive.google.com/drive/u/0/folders/1q06YBlkcYMGh7mSQ8qw_W5om4R0_NdxN): Top 4.9% among all the submissions
+
+
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/b33fa4d0-ad1a-4069-a3ea-b17a31f449a6)
 
