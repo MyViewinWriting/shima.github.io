@@ -17,7 +17,8 @@ and sparked my passion for uncovering patterns in complex datasets.
 💻In addition to research, I have hands-on experience in business data analysis from my time at [Paytm](https://paytm.com/about-us),           
 where I worked with major clients such as INOX-PVR. I was responsible for analyzing customer behavior 
 and purchasing patterns, providing actionable insights, and developing data-driven marketing strategies 
-to optimize client engagement and growth.                                                                                                 
+to optimize client engagement and growth.    <img src="https://github.com/user-attachments/assets/eed02ffa-b58f-41f7-a25a-8fe75e4df683" alt="Paytm Logo" width="30">
+                                                              
 
 Research Experimentation
 ======
