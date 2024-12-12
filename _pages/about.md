@@ -7,17 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-My research and professional interests revolve around understanding businesses, analyzing their data, and applying machine learning techniques to extract actionable insights. I hold a Master Degree in International Management from [HSE University](https://www.hse.ru/en/), Moscow & [EDHEC Business School](https://www.edhec.edu/en) (Exchange sem-duration)
+My research and professional interests revolve around understanding businesses, analyzing their data, and applying machine learning techniques to extract actionable insights. I hold a Master Degree in International Management from [HSE University](https://www.hse.ru/en/), Moscow & [EDHEC Business School](https://www.edhec.edu/en) (Exchange sem-duration) <img src="https://github.com/user-attachments/assets/180a541b-1119-4181-b7df-a7a175387afa" alt="Logo" width="50">  <img src="https://github.com/user-attachments/assets/d54103c4-2138-460c-ac6f-2403c8b50929" alt="Logo" width="50">
+
 
 Professional Experience
 ======
+                                      <img src="https://github.com/user-attachments/assets/13e3d20b-9212-45c3-bf24-f07ded94ec95" alt="Logo" width="50">            
 📚I have research experience as a Research Analyst at [HSE University](https://www.hse.ru/en/), where I contributed to crowdsourcing contests, analyzing the socio-economic profiles of participants. I have presented this work at Open and User Innovation Conference [OUI](https://sites.google.com/view/oui2019/homepage). This experience strengthened my understanding of data analysis 
 and sparked my passion for uncovering patterns in complex datasets.
 
-💻In addition to research, I have hands-on experience in business data analysis from my time at [Paytm](https://paytm.com/about-us),           
+                                             <img src="https://github.com/user-attachments/assets/eed02ffa-b58f-41f7-a25a-8fe75e4df683" alt="Paytm Logo" width="30">
+💻In addition to research, I have hands-on experience in business data analysis from my time at [Paytm](https://paytm.com/about-us),                      
 where I worked with major clients such as INOX-PVR. I was responsible for analyzing customer behavior 
 and purchasing patterns, providing actionable insights, and developing data-driven marketing strategies 
-to optimize client engagement and growth.    <img src="https://github.com/user-attachments/assets/eed02ffa-b58f-41f7-a25a-8fe75e4df683" alt="Paytm Logo" width="30">
+to optimize client engagement and growth.    
                                                               
 
 Research Experimentation
