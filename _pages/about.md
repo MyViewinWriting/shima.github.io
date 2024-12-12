@@ -8,8 +8,11 @@ redirect_from:
 ---
 
 
+<div class="logo-right">
+  <img src="https://github.com/user-attachments/assets/180a541b-1119-4181-b7df-a7a175387afa" alt="Logo" width="70">  
+</div>
 
-<img src="https://github.com/user-attachments/assets/180a541b-1119-4181-b7df-a7a175387afa" alt="Logo" width="70">                            <img src="https://github.com/user-attachments/assets/d54103c4-2138-460c-ac6f-2403c8b50929" alt="Logo" width="90">
+<img src="https://github.com/user-attachments/assets/d54103c4-2138-460c-ac6f-2403c8b50929" alt="Logo" width="90">
 
 My research and professional interests revolve around understanding businesses, analyzing their data, and applying machine learning techniques to extract actionable insights. I hold a Master Degree in International Management from [HSE University](https://www.hse.ru/en/), Moscow & [EDHEC Business School](https://www.edhec.edu/en) (Exchange sem-duration) 
 
