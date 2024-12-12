@@ -1,6 +1,6 @@
 .logo-right {
   float: right; /* Aligns the logo to the right */
-  margin-left: 50px; /* Adds spacing to the left of the logo */
+  margin-left: 80px; /* Adds spacing to the left of the logo */
   margin-bottom: 10px; /* Optional: Adds space below the logo */
   margin-top: 20px; /* Optional: Adds space from the top */
   margin-right: 20px; /* Adds space on the right side to avoid sticking to the edge */
