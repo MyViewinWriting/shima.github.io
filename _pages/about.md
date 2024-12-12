@@ -28,9 +28,14 @@ I have hands-on practice with exploration, analysis, and testing of data using m
 At a Glance: Certifications
 ======
 • [FreeCodeCamp](https://drive.google.com/drive/u/0/folders/1q06YBlkcYMGh7mSQ8qw_W5om4R0_NdxN): Data Analysis with Python Certification. Focused on data wrangling, exploratory analysis, and visualizations using Python libraries like Pandas, Matplotlib, Seaborn, and Scikit
-• [Kaggle](https://drive.google.com/drive/u/0/folders/1Z6RtoB0XKWFeusZyoNHo_99Vm8D2wEnK): Pandas and Data Visualization Certifications. Hands-on experience in manipulating dataframes and creating insightful visualizations.
+
+• [Kaggle](https://drive.google.com/drive/u/0/folders/1Z6RtoB0XKWFeusZyoNHo_99Vm8D2wEnK): Pandas and Data Visualization Certifications. Hands-on experience in manipulating dataframes and creating insightful visualizations
+
 • [Google](https://drive.google.com/drive/u/0/folders/1q06YBlkcYMGh7mSQ8qw_W5om4R0_NdxN): Share Data through the Art of Visualization
+
 • [OUI](https://drive.google.com/drive/u/0/folders/1q06YBlkcYMGh7mSQ8qw_W5om4R0_NdxN): My Research work was accepted for a full presentation at Open and User Innovation 2022
+
 • [CIMA](https://drive.google.com/drive/u/0/folders/1q06YBlkcYMGh7mSQ8qw_W5om4R0_NdxN): 2nd Prize awarded at the CIMA Emerging Leaders Competition - 2021
+
 • [X-Culture](https://drive.google.com/drive/u/0/folders/1q06YBlkcYMGh7mSQ8qw_W5om4R0_NdxN): Top 4.9% among all the submissions
 
