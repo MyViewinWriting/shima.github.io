@@ -19,7 +19,7 @@ My research and professional interests revolve around understanding businesses, 
 Professional Experience
 ======
   <img src="https://github.com/user-attachments/assets/13e3d20b-9212-45c3-bf24-f07ded94ec95" alt="Logo" width="90">    
-  <img src="https://github.com/user-attachments/assets/01d8dfaa-3b2f-4e46-8612-97882b9e0e69" alt="Logo" width="80">
+  <img src="https://github.com/user-attachments/assets/01d8dfaa-3b2f-4e46-8612-97882b9e0e69" alt="Logo" width="90">
 
   
 📚I have research experience as a Research Analyst at [HSE University](https://www.hse.ru/en/), where I contributed to crowdsourcing contests, analyzing the socio-economic profiles of participants. I have presented this work at Open and User Innovation Conference [OUI](https://sites.google.com/view/oui2019/homepage). This experience strengthened my understanding of data analysis 
