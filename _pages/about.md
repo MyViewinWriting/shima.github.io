@@ -16,33 +16,36 @@ redirect_from:
   <img src="https://github.com/user-attachments/assets/d54103c4-2138-460c-ac6f-2403c8b50929" alt="Logo" width="90">
 </div>
 
-My research and professional interests revolve around understanding businesses, analyzing their data, and applying machine learning techniques to extract actionable insights. I hold a Master Degree in International Management from [HSE University](https://www.hse.ru/en/), Moscow & [EDHEC Business School](https://www.edhec.edu/en) (Exchange sem-duration) 
+<div class="text-justify">
+  My research and professional interests revolve around understanding businesses, analyzing their data, and applying machine learning techniques to extract 
+  actionable insights. I hold a Master Degree in International Management from
+  <a href="https://www.hse.ru/en/">HSE University</a>, Moscow & <a href="https://www.edhec.edu/en">EDHEC Business School</a> (Exchange sem-duration).
+</div>
 
 
 
-
-Professional Experience
+<h2>Professional Experience</h2>
 ======
 <div class="logo-right">
   <img src="https://github.com/user-attachments/assets/13e3d20b-9212-45c3-bf24-f07ded94ec95" alt="Logo" width="90">
 </div>
-<div class="logo-right">
-  <img src="https://github.com/user-attachments/assets/01d8dfaa-3b2f-4e46-8612-97882b9e0e69" alt="Logo" width="90">
-</div>
-  
-📚I have research experience as a Research Analyst at [HSE University](https://www.hse.ru/en/), where I contributed to crowdsourcing contests, analyzing the socio-economic profiles of participants. I have presented this work at Open and User Innovation Conference [OUI](https://sites.google.com/view/oui2019/homepage). This experience strengthened my understanding of data analysis 
-and sparked my passion for uncovering patterns in complex datasets.
 
+<div class="text-justify">
+  📚 I have research experience as a Research Analyst at
+  <a href="https://www.hse.ru/en/">HSE University</a>, where I contributed to crowdsourcing contests, analyzing the socio-economic profiles of participants. I have 
+  presented this work at Open and User Innovation Conference
+  <a href="https://sites.google.com/view/oui2019/homepage">OUI</a>. This experience strengthened my understanding of data analysis and sparked my passion for uncovering patterns in complex datasets.
+</div>
 
 <div class="logo-right">
   <img src="https://github.com/user-attachments/assets/eed02ffa-b58f-41f7-a25a-8fe75e4df683" alt="Paytm Logo" width="70">
 </div>
-   
-💻In addition to research, I have hands-on experience in business data analysis from my time at [Paytm](https://paytm.com/about-us),                      
-where I worked with major clients such as INOX-PVR. I was responsible for analyzing customer behavior 
-and purchasing patterns, providing actionable insights, and developing data-driven marketing strategies 
-to optimize client engagement and growth.    
-                                                              
+
+<div class="text-justify">
+  💻 In addition to research, I have hands-on experience in business data analysis from my time at
+  <a href="https://paytm.com/about-us">Paytm</a>, where I worked with major clients such as INOX-PVR. I was responsible for analyzing customer behavior and 
+  purchasing patterns, providing actionable insights, and developing data-driven marketing strategies to optimize client engagement and growth.
+</div>                  
 
 
 Research Experimentation
