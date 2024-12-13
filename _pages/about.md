@@ -33,7 +33,8 @@ Professional Experience
   📚 I have research experience as a Research Analyst at
   <a href="https://www.hse.ru/en/">HSE University</a>, where I contributed to crowdsourcing contests, analyzing the socio-economic profiles of participants. I have 
   presented this work at Open and User Innovation Conference
-  <a href="https://sites.google.com/view/oui2019/homepage">OUI</a>. This experience strengthened my understanding of data analysis and sparked my passion for uncovering patterns in complex datasets.
+  <a href="https://sites.google.com/view/oui2019/homepage">OUI</a>. This experience strengthened my understanding of data analysis and sparked 
+  my passion for uncovering patterns in complex datasets.
 </div>
 
 <div class="logo-right">
