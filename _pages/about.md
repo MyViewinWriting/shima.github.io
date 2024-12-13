@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-
 <div class="logo-right">
   <img src="https://github.com/user-attachments/assets/180a541b-1119-4181-b7df-a7a175387afa" alt="Logo" width="70">  
 </div>
@@ -24,7 +23,7 @@ redirect_from:
 
 
 
-<h2>Professional Experience</h2>
+Professional Experience
 ======
 <div class="logo-right">
   <img src="https://github.com/user-attachments/assets/13e3d20b-9212-45c3-bf24-f07ded94ec95" alt="Logo" width="90">
