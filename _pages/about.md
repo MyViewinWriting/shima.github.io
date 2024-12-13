@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 <div class="logo-right">
-  <img src="https://github.com/user-attachments/assets/180a541b-1119-4181-b7df-a7a175387afa" alt="Logo" width="70">  
+  <img src="https://github.com/user-attachments/assets/180a541b-1119-4181-b7df-a7a175387afa" alt="Logo" width="60">  
 </div>
 
 <div class="logo-right">
-  <img src="https://github.com/user-attachments/assets/d54103c4-2138-460c-ac6f-2403c8b50929" alt="Logo" width="70">
+  <img src="https://github.com/user-attachments/assets/d54103c4-2138-460c-ac6f-2403c8b50929" alt="Logo" width="90">
 </div>
 
 <div class="text-justify">
