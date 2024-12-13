@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <div class="logo-right">
-  <img src="https://github.com/user-attachments/assets/180a541b-1119-4181-b7df-a7a175387afa" alt="Logo" width="60">  
+  <img src="https://github.com/user-attachments/assets/180a541b-1119-4181-b7df-a7a175387afa" alt="Logo" width="50">  
 </div>
 
 <div class="logo-right">
