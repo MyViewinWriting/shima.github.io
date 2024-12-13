@@ -12,7 +12,7 @@ redirect_from:
 </div>
 
 <div class="logo-right">
-  <img src="https://github.com/user-attachments/assets/d54103c4-2138-460c-ac6f-2403c8b50929" alt="Logo" width="90">
+  <img src="https://github.com/user-attachments/assets/d54103c4-2138-460c-ac6f-2403c8b50929" alt="Logo" width="70">
 </div>
 
 <div class="text-justify">
